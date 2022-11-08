@@ -13,3 +13,23 @@
  *= require_tree .
  *= require_self
  */
+
+h1 {
+  color: brown;
+}
+
+li {
+  text-decoration: none;
+  color: black;
+}
+
+.links {
+  text-decoration: none;
+  color: black;
+}
+
+.tasks-list {
+  justify-items: center;
+  text-align: center;
+  justify-content: center;
+}
